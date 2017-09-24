@@ -21,9 +21,10 @@
             <tr>
                 <td>Alamat</td>
                 <td>:</td>
-                <td><asp:Button ID="Button1" runat="server" Text="Button" /></td>
+                <td><asp:TextBox ID="TextBox2" runat="server"></asp:TextBox></td>
             </tr>
         </table>
+        <asp:Button ID="Button1" runat="server" Text="Button" />
     </div>
     </form>
 </body>
