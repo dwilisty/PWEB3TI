@@ -25,6 +25,8 @@
             </tr>
         </table>
         <asp:Button ID="Button1" runat="server" Text="Button" />
+        <br />
+        <asp:Label ID="lblPrint" runat="server"></asp:Label>
     </div>
     </form>
 </body>
